@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+div {
+  width: 300px;
+  border:10px #DCDCDC;
+  padding: 5px;
+  margin: 0;
+}
+
+.container {
+  border: solid #DCDCDC;
+  border-width: thin;
+  width: 320px;
+  box-shadow: 7px 7px 2px #ddd;
+  border-radius: 15px;
+}
+
+.box{
+  border: solid #CDCDCD;
+  border-width: thin;
+  width: 300px;
+  margin: 10px 0;
+}
+
+#interesting {
+    font-style: italic;
+}
+
+span {font-weight: bold;}
+
+ul {list-style-type: none; text-align: left; padding-left: 0;}
